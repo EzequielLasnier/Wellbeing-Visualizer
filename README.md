@@ -4,7 +4,7 @@
 
 This project is a real-time data visualization system that utilizes a distributed **Micro:bit** hardware architecture and asynchronous **Python** processing. The system monitors emotional wellbeing indicators (stress, anxiety, fatigue) based on two key factors: blue light exposure from screens and physical activity levels.
 
-![Texto alternativo](assets\Cover.png)
+![Banner](assets/Cover.png)
 
 ## **Project Architecture**
 
