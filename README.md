@@ -53,3 +53,9 @@ The central objective is to promote **Digital Balance**. Through the visual meta
 * **Reset:** Press the a key on your keyboard to return all values to their initial baseline.
 
 *Project developed for Science Fair \- IoT, Hardware, and Health Integration.*
+
+## 👥 Contributors & Acknowledgments
+
+Thanks to these wonderful people who contributed to this project:
+
+Paola Suarez
